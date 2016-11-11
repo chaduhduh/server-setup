@@ -16,6 +16,10 @@ Installed/Updated Software
   7. Installed <i>virtual-env</i> via <i>pip</i><br />
   8. Configured virtual environment and installed <i>Flask</i> and required app packages into environment<br />
 
-Resources Used
+Resources Used 
 ==============
-  1.
+  1. Thanks to Digital Ocean and their very detailed tutorials<br />
+    a. https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server<br />
+    b. https://www.digitalocean.com/community/tutorials/additional-recommended-steps-for-new-ubuntu-14-04-servers<br />
+    c. https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps<br />
+<br />
