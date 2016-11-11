@@ -15,3 +15,7 @@ Installed/Updated Software
   6. Installed <i>pip</i> package manager for python<br />
   7. Installed <i>virtual-env</i> via <i>pip</i><br />
   8. Configured virtual environment and installed <i>Flask</i> and required app packages into environment<br />
+
+Resources Used
+==============
+  1.
